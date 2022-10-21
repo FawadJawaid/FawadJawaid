@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FawadJawaid. 
 - :round_pushpin: I'm based in Berlin.
-- :computer: I'm currently working at momox AG as a Senior Mobile Engineer (Leading Android Team).
+- :computer: I'm currently working at momox AG as a Senior Mobile Engineer (Android).
 - 👀 I’m interested in Android, Kotlin, Jetpack Compose, MVVM, Clean Architecture, Product Management, Scrum and Agile Methodologies.
 - 🌱 I’m currently learning Jetpack Compose, mentoring and cooking.
 - 💞️ I’m looking to collaborate on Android projects, startup ideas and good food. 🥘 
