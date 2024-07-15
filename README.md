@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FawadJawaid. 
 - :round_pushpin: I'm based in Berlin.
 - 🤠 I'm a Software Engineer turned Engineering Leader.
-- :computer: I'm currently working at momox SE as an Engineering Manager / Lead Software Engineer - Mobile Apps, leading a cross-functional team of 12 engineers.
+- :computer: I'm currently working as an Engineering Manager / Lead Software Engineer - Mobile Apps, leading a cross-functional team of 12 engineers.
 - 🧑🏽‍💻 I have previously worked as a Lead Mobile Engineer (Android Specialist); led and mentored up to 5 Android Engineers.
 - 📱 I meticulously crafted multiple highly-rated Android apps as a (Senior) Android Developer across various organizations.
 - 👀 I’m interested in Engineering Management, Leadership, Technical Leadership, Mobile App Leadership, Android, Kotlin, Jetpack Compose, MVVM, Clean Architecture, Product Management, Scrum, and Agile Methodologies.
